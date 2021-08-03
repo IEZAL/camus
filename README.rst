@@ -3,6 +3,8 @@ Camus
 
 |Build Status| |docs| |PyPI| |Docker Hub| |License|
 
+#Video Meet for IEZAL is hosted on heroku server "https://iezalvideomeet.herokuapp.com/"
+
 Camus is a group video chat app that uses `WebRTC`_ for direct peer-to-peer
 communication. Users can create and join rooms, stream audio and video with
 a microphone and webcam, share their screen, and send text messages.
